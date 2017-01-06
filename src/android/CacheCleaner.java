@@ -22,7 +22,7 @@ public class CacheCleaner extends CordovaPlugin {
 						File dir = cordova.getActivity().getCacheDir();
 						if (dir != null && dir.isDirectory()) {
 							deleteDir(dir);
-							showToast("App cache is deleted.","short");
+							//showToast("App cache is deleted.","short");
 						}
 					} catch (Exception e) {
 						e.printStackTrace();
