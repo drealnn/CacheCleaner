@@ -1,0 +1,27 @@
+{
+  "name": "cache-cleaner",
+  "version": "0.0.1",
+  "description": "Cordova Cache Clearing Plugin",
+  "cordova": {
+    "id": "cache-cleaner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drealnn/CacheCleaner.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "sagittaros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drealnn/CacheCleaner/issues"
+  },
+  "homepage": "https://github.com/drealnn/CacheCleaner#readme"
+}
